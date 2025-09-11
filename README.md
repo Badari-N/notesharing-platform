@@ -61,7 +61,7 @@ npm install react react-dom firebase
 
      - Place it inside your backend/ folder
 
-- ⚠️ Add it to .gitignore so it doesn’t get pushed to GitHub
+ ⚠️ Add it to .gitignore so it doesn’t get pushed to GitHub
 
 ### 5. Configure Firebase in Frontend
 
