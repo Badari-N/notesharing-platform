@@ -1,0 +1,18 @@
+/* users.css */
+.users-container {
+  display: flex;             /* make it a flex container */
+  flex-direction: column;    /* stack children vertically */
+  align-items: center;       /* center all children horizontally */
+  margin-top: 2rem;
+}
+
+.logout-wrapper {
+  margin-top: 1rem;          /* space above the button */
+  width: 100%;               /* optional: full width of container */
+  display: flex;             /* flex container */
+  justify-content: center;   /* center its child horizontally */
+}
+
+.logout-wrapper button {
+  display: inline-block;     /* ensures the button doesn’t stretch */
+}

@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+notesharing-207fe-firebase-adminsdk-fbsvc-d3dacb5dda.json
+# Node dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build folders
+dist/
+build/
+
+# Optional: editor/IDE files
+.vscode/
+.idea/
+
+# Optional: coverage reports
+coverage/
