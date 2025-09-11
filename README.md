@@ -1,4 +1,5 @@
-# 📘 Notes Sharing Platform
+# 📘 Notes Sharing Platform usinG Firebase
+
 
 A full-stack notes sharing application built with **React**, **Express**, and **Firebase**.  
 Users can register, log in, upload files, and share notes securely. File handling is managed using **Multer**, storage is done in **Firebase Storage**, and **CORS** ensures safe communication between frontend and backend.  
