@@ -1,4 +1,4 @@
-# 📘 Notes Sharing Platform usinG Firebase
+# 📘 Notes Sharing Platform using Firebase
 
 
 A full-stack notes sharing application built with **React**, **Express**, and **Firebase**.  
