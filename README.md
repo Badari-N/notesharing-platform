@@ -30,7 +30,7 @@ npm install express firebase multer cors
 ```
 - Frontend
 ```bash
-cd frontend
+cd frontend/notes
 npm install react react-dom firebase
 ```
 ## Firebase Setup
@@ -76,6 +76,6 @@ node server.js
 ```
 ### Frontend
 ```bash
-cd frontend
+cd frontend/notes
 npm start
 ```
