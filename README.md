@@ -1,4 +1,4 @@
-# 📘 Notes Sharing Platform 
+# CollabNotes-📘 Notes Sharing Platform 
 
 
 A full-stack notes sharing application built with **React**, **Express**, and **Firebase**.  
